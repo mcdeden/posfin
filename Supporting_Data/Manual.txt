@@ -1,0 +1,14 @@
+1. change this parameter at .env
+   DB_CONNECTION=mysql
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE=taskdb
+   DB_USERNAME=bybdbuser
+   DB_PASSWORD=saudara123$
+   
+2. User: sysadmin@bootcampposfin.com, password: saudara => Role SysAdmin
+   User: bnkopr001@bootcampposfin.com, password: saudara => Role User
+   
+3. Database file: taskdb.sql
+
+4. composer install / updade to get all node_modules file
